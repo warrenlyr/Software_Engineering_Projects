@@ -1,6 +1,7 @@
 # Software_Engineering_Projects
 * Warren Liu
 * CIS 322: Introduction to Software Engineering
+* Each project's folder contains each one's description
 
 ## Goals of this course are:
 
